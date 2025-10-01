@@ -3,17 +3,20 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *"   # Runs every day at midnight
-  workflow_dispatch:
+  workflow_dispatch:      # Allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Thanweerfahim
+          github_user_name: thanweerfahim
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
@@ -27,3 +30,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
