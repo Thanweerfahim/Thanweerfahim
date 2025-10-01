@@ -48,25 +48,14 @@
 
 ## 🚀 Featured Projects
 
+📌 [Room Booking App](https://github.com/your-repo) – Flask web app for booking rooms  
+📌 [Cybersecurity Scripts](https://github.com/your-repo) – Small tools for security testing  
+📌 [Graphics Design Portfolio](https://github.com/your-repo) – My creative work  
+
 <p align="center">
-  <a href="https://github.com/your-repo">
-    <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="250"/>
-    <br>📌 Room Booking App
-    <br>💻 Flask | Bootstrap
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/your-repo">
-    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="250"/>
-    <br>📌 Cybersecurity Scripts
-    <br>🔐 Python | Tools
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/your-repo">
-    <img src="https://media.giphy.com/media/3orieYz27kfs9yShj2/giphy.gif" width="250"/>
-    <br>📌 Graphics Portfolio
-    <br>🎨 Photoshop | Illustrator
-  </a>
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
+
 
 ---
 
