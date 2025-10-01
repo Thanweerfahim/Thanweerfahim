@@ -107,4 +107,5 @@
 <p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
 
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=F70000&center=true&vCenter=true&width=500&lines=Hello+World!;I+am+a+Developer;Welcome+to+my+Portfolio!)
 
