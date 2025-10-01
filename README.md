@@ -18,7 +18,7 @@
 ## 🌟 About Me  
 
 🎓 **Undergraduate** – BSc in Physical Science, Faculty of Applied Sciences, **Rajarata University of Sri Lanka**  
-🎓 **Bachelor of IT** – University of Colombo (External)  
+🎓 **Bachelor of IT** – University of Colombo (External) Reading 
 🎓 **Completed 1st Year** – SLIIT  
 
 🏫 **Primary & Secondary Education** – *All Saints’ College, Galle*  
@@ -26,18 +26,18 @@
 
 💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | 🤖 **AI/ML Enthusiast** | 🎨 **Graphics Designer**  
 
-🌍 Languages I Speak: 🇬🇧 English | 🇱🇰 Sinhala | 🇮🇳 Tamil  
+🌍 Languages I Speak:  English |  Sinhala |  Tamil  
 
 ---
 
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,bootstrap,tailwind,flask,git,github,linux,photoshop,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=c++,html,css,bootstrap,tailwind,flask,git,github,linux,photoshop,vscode" /><br>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python">
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=c++">
   <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?logo=bootstrap">
   <img src="https://img.shields.io/badge/Framework-Flask-black?logo=flask">
   <img src="https://img.shields.io/badge/UI-TailwindCSS-teal?logo=tailwindcss">
@@ -87,13 +87,13 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="mailto:thanweerfahim@example.com">
+  <a href="muhammedthanweerfahim@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/your-link">
+  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/thanweerfahim">
+  <a href="https://github.com/Thanweerfahim">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
@@ -106,5 +106,5 @@
 
 <p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
 
-![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)
+
 
