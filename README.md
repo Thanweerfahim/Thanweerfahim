@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Graphics+Designer;Open+Source+Contributor;Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0044FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Enthusiast;Graphics+Designer;Open+Source+Contributor;Always+Learning!">
 </p>
 
 ---
@@ -23,7 +23,10 @@
 🎓 **Bachelor of IT** – University of Colombo (External)  
 🎓 **Completed 1st Year** – SLIIT  
 
-💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | 🎨 **Graphics Designer**  
+🏫 **Primary & Secondary Education** – *All Saints’ College, Galle*  
+📚 **A/L (Mathematics Stream)**  
+
+💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | 🤖 **AI/ML Enthusiast** | 🎨 **Graphics Designer**  
 
 🌍 Languages I Speak: 🇬🇧 English | 🇱🇰 Sinhala | 🇮🇳 Tamil  
 
@@ -103,4 +106,5 @@
 </p>
 
 <p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
+
 
