@@ -33,7 +33,7 @@
 ## 🛠️ Tech Stack & Tools  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c++,html,css,bootstrap,tailwind,flask,git,github,linux,photoshop,vscode" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,tailwind,flask,git,github,linux,photoshop,vscode" /><br>
 </p>
 
 <p align="center">
