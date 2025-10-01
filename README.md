@@ -46,20 +46,26 @@
 
 ---
 
-## 🚀 Featured Projects  
-
-📌 [Room Booking App](https://github.com/your-repo) – Flask web app for booking rooms  
-📌 [Cybersecurity Scripts](https://github.com/your-repo) – Tools for security testing  
-📌 [Graphics Design Portfolio](https://github.com/your-repo) – My creative work  
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF4500&center=true&vCenter=true&width=600&lines=Building+Interactive+Apps;Exploring+Cybersecurity;Designing+Creative+Graphics" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Room_Booking_App-Flask-blue?style=for-the-badge&logo=flask" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Scripts-red?style=for-the-badge&logo=appveyor" />
-  <img src="https://img.shields.io/badge/Graphics_Portfolio-Design-green?style=for-the-badge&logo=adobeillustrator" />
+  <a href="https://github.com/your-repo">
+    <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="250"/>
+    <br>📌 Room Booking App
+    <br>💻 Flask | Bootstrap
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/your-repo">
+    <img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="250"/>
+    <br>📌 Cybersecurity Scripts
+    <br>🔐 Python | Tools
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/your-repo">
+    <img src="https://media.giphy.com/media/3orieYz27kfs9yShj2/giphy.gif" width="250"/>
+    <br>📌 Graphics Portfolio
+    <br>🎨 Photoshop | Illustrator
+  </a>
 </p>
 
 ---
