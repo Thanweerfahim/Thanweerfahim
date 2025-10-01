@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=c++ logo">
+  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?logo=bootstrap">
   <img src="https://img.shields.io/badge/Framework-Flask-black?logo=flask">
   <img src="https://img.shields.io/badge/UI-TailwindCSS-teal?logo=tailwindcss">
