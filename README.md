@@ -1,4 +1,4 @@
-<!-- Animated Portfolio README for Muhammed Thanweer Fahim -->
+<!-- Fully Animated Portfolio README for Muhammed Thanweer Fahim -->
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  
@@ -8,8 +8,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0044FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Enthusiast;Graphics+Designer;Open+Source+Contributor;Always+Learning!">
 </p>
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%">
@@ -57,6 +55,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
+
 ---
 
 ## 📊 GitHub Analytics  
@@ -71,28 +70,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thanweerfahim&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanweerfahim&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
- 
+## 🐍 Contribution Snake  
 
-## 🐍 Contribution Snake
-
-### 🌈 Rainbow Snake
 <p align="center">
-  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-rainbow.svg" alt="Rainbow Snake" />
-</p>
-
-### ⚡ Neon Snake
-<p align="center">
-  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-neon.svg" alt="Neon Snake" />
-</p>
-
-### 🌙 Dark Mode Snake
-<p align="center">
-  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-dark.svg" alt="Dark Snake" />
+  <img src="https://github.com/thanweerfahim/thanweerfahim/blob/output/snake-rainbow.svg" alt="Rainbow Snake" />
 </p>
 
 ---
@@ -118,5 +104,6 @@
 </p>
 
 <p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
+
 
 
