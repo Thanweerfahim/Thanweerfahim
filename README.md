@@ -1,10 +1,16 @@
-## Hi there 👋
 <!-- Portfolio README for Muhammed Thanweer Fahim -->
 
-<h1 align="center">👋 Hi, I'm Muhammed Thanweer Fahim</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">  
+  Hi, I'm Muhammed Thanweer Fahim
+</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;Graphics+Designer;Lifelong+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="600">
 </p>
 
 ---
@@ -34,13 +40,22 @@
 ---
 
 ## 📂 Featured Projects
-- 🚀 [Room Booking App](https://github.com/your-repo) – Flask web app for booking rooms.  
-- 🔐 [Cybersecurity Scripts](https://github.com/your-repo) – Tools for basic security tasks.  
-- 🎨 [Design Portfolio](https://github.com/your-repo) – My graphics design work.  
+
+🚀 [Room Booking App](https://github.com/your-repo) – Flask web app for booking rooms  
+🔐 [Cybersecurity Scripts](https://github.com/your-repo) – Tools for basic security tasks  
+🎨 [Design Portfolio](https://github.com/your-repo) – My graphics design work  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Achievements & Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thanweerfahim&theme=radical&row=1&column=7" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thanweerfahim&show_icons=true&theme=radical" height="180"/>
@@ -68,4 +83,9 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
+</p>
+
 <p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
+
