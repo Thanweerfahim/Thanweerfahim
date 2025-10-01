@@ -79,8 +79,9 @@
 ## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github.com/thanweerfahim/thanweerfahim/blob/output/snake-rainbow.svg" alt="Rainbow Snake" />
+  <img src="https://raw.githubusercontent.com/thanweerfahim/thanweerfahim/output/snake-rainbow.svg" alt="Contribution Snake"/>
 </p>
+
 
 ---
 
