@@ -55,9 +55,8 @@
 📌 [Graphics Design Portfolio](https://github.com/your-repo) – My creative work  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="500" alt="Coding Animation"/>
 </p>
-
 ---
 
 ## 📊 GitHub Analytics  
