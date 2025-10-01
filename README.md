@@ -88,10 +88,10 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="muhammedthanweerfahim@gmail.com">
+  <a href="mailto:muhammedthanweerfahim@gmail.com.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/your-link](https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+  <a href="https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Thanweerfahim">
