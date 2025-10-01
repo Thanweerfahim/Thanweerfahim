@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0044FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Enthusiast;Graphics+Designer;Open+Source+Contributor;Always+Learning!">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0044FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Enthusiast;Graphics+Designer;Always+Learning!">
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-blue?logo=c++">
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=c++ logo">
   <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?logo=bootstrap">
   <img src="https://img.shields.io/badge/Framework-Flask-black?logo=flask">
   <img src="https://img.shields.io/badge/UI-TailwindCSS-teal?logo=tailwindcss">
