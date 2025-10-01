@@ -77,10 +77,23 @@
 
 ---
 
-## 🐍 Contribution Snake  
+ 
 
+## 🐍 Contribution Snake
+
+### 🌈 Rainbow Snake
 <p align="center">
-  <img src="https://github.com/thanweerfahim/thanweerfahim/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-rainbow.svg" alt="Rainbow Snake" />
+</p>
+
+### ⚡ Neon Snake
+<p align="center">
+  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-neon.svg" alt="Neon Snake" />
+</p>
+
+### 🌙 Dark Mode Snake
+<p align="center">
+  <img src="https://github.com/Thanweerfahim/Thanweerfahim/blob/output/snake-dark.svg" alt="Dark Snake" />
 </p>
 
 ---
