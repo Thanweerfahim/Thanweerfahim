@@ -18,7 +18,7 @@
 ## 🌟 About Me  
 
 🎓 **Undergraduate** – BSc in Physical Science, Faculty of Applied Sciences, **Rajarata University of Sri Lanka**  
-🎓 **Bachelor of IT** – University of Colombo (External) Reading 
+🎓 **Diploma in IT** – University of Colombo (External) 
 🎓 **Completed 1st Year** – SLIIT  
 
 🏫 **Primary & Secondary Education** – *All Saints’ College, Galle*  
