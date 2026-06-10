@@ -1,63 +1,73 @@
-# Hi, I'm Muhammed Thanweer Fahim 👋
+<div align="center">
 
-🎓 Applied Sciences Undergraduate at Rajarata University of Sri Lanka
-📊 Interested in Machine Learning, Data Analytics, Computer Vision & AI
-💻 Passionate about building intelligent systems using data-driven approaches
+# 👋 Hi, I'm Muhammed Thanweer Fahim
+
+### 🎓 Applied Sciences Undergraduate
+
+### 🤖 Machine Learning Enthusiast
+
+### 📊 Statistics & Computer Science
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Computer+Vision+Researcher;Data+Analytics+Learner;Applied+Sciences+Undergraduate" />
 
 ---
 
-## 🚀 About Me
+📍 Galle, Sri Lanka
+📧 **[muhammedthanweerfahim@gmail.com](mailto:muhammedthanweerfahim@gmail.com)**
+🔗 LinkedIn: [www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386](http://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386)
+💻 GitHub: github.com/Thanweerfahim
 
-I am currently pursuing a BSc in Applied Sciences (Physical Science) with a specialization in Mathematics, Statistics, and Computer Science at Rajarata University of Sri Lanka.
+</div>
 
-My interests mainly focus on:
+---
+
+# 🚀 About Me
+
+🎓 I am currently pursuing a **BSc in Applied Sciences (Physical Science)** at **Rajarata University of Sri Lanka** with academic specialization in:
+
+* Mathematics
+* Statistics
+* Computer Science
+
+💡 I am passionate about:
 
 * Machine Learning
-* Data Science
-* Computer Vision
-* Statistical Modeling
-* Intelligent Systems
 * Data Analytics
+* Computer Vision
+* Artificial Intelligence
+* Intelligent Systems
 
-I enjoy working on research-oriented projects and applying analytical thinking to solve real-world problems.
+🔍 I enjoy building research-oriented projects and solving real-world problems using analytical and data-driven approaches.
 
 ---
 
-## 🛠 Technical Skills
+# 🛠 Tech Stack
 
-### Programming Languages
+<div align="center">
 
-* R
-* Java
-* C++
-* PHP
-* JavaScript
-* HTML/CSS
+### 👨‍💻 Programming Languages
 
-### Data Science & Machine Learning
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-* Statistical Learning
-* Predictive Analytics
-* Data Analysis
-* Exploratory Data Analysis (EDA)
-* Classification & Regression
-* Feature Engineering
-* Model Evaluation
+### 📊 Data Science & Analytics
 
-### Mathematics & Statistics
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6f00?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-0081CB?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-5C2D91?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-00A67E?style=for-the-badge)
 
-* Probability & Statistics
-* Statistical Inference
-* Linear Algebra
-* Numerical Analysis
+### ⚙️ Tools & Technologies
 
-### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
-* Git & GitHub
-* Jupyter Notebook
-* Excel
-* Canva
-* Adobe Photoshop
+</div>
 
 ---
 
@@ -65,39 +75,40 @@ I enjoy working on research-oriented projects and applying analytical thinking t
 
 ## 🌿 Tree Species Identification Using Leaf Image Classification
 
-Machine learning-based image classification system developed to identify tree species using leaf images.
+> Machine learning-based image classification system for identifying tree species using leaf images.
 
-### Key Features
+✨ Features:
 
 * Image preprocessing
 * Feature extraction
+* Pattern recognition
 * Classification workflows
-* Pattern recognition techniques
 
-🔗 Project Link:
+🔗 Repository:
 [Tree Species Identification Project](https://github.com/Thanweerfahim/Tree-Species-Identification-Using-Leaf-Image-Classification?utm_source=chatgpt.com)
 
 ---
 
-## 🚗 Multi-Camera Vehicle Re-Identification and Tracking System for Fraud Incident Analysis (Ongoing Research)
+## 🚗 Multi-Camera Vehicle Re-Identification & Tracking System
 
-Research-focused computer vision project for vehicle tracking and fraud investigation across multiple CCTV cameras.
+### *(Ongoing Research Project)*
 
-### Research Areas
+> Research-focused computer vision system for fraud investigation across multiple CCTV cameras.
+
+🧠 Research Areas:
 
 * Vehicle detection & tracking
 * Vehicle re-identification
-* Automatic number plate recognition
+* Number plate recognition
 * Cross-camera tracking
 * Path prediction
-* Intelligent investigation workflows
+* Intelligent investigation systems
 
 ---
 
-## 📚 Education
+# 📚 Education
 
-### 🎓 Rajarata University of Sri Lanka
-
+🎓 **Rajarata University of Sri Lanka**
 BSc Applied Sciences (Physical Science)
 Focus Areas:
 
@@ -105,30 +116,37 @@ Focus Areas:
 * Statistics
 * Computer Science
 
-### 💻 University of Colombo School of Computing (External)
-
+💻 **University of Colombo School of Computing (External)**
 Diploma in Information Technology (DIT)
 
 ---
 
-## 🏆 Leadership & Activities
+# 🏆 Leadership & Activities
 
-* Graphic Designer — Rotaract Club of Rajarata University of Sri Lanka
-* Editor — Galle Muslim Undergraduate Network
-* Volunteer Graphic Designer — InFocus Media
-
----
-
-## 🌐 Connect With Me
-
-📧 Email: [muhammedthanweerfahim@gmail.com](mailto:muhammedthanweerfahim@gmail.com)
-
-🔗 LinkedIn:
-[Muhammed Thanweer Fahim LinkedIn](https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=chatgpt.com)
-
-💻 GitHub:
-[Thanweerfahim GitHub](https://github.com/Thanweerfahim?utm_source=chatgpt.com)
+✨ Graphic Designer — Rotaract Club of Rajarata University of Sri Lanka
+✨ Editor — Galle Muslim Undergraduate Network
+✨ Volunteer Graphic Designer — InFocus Media
 
 ---
 
-⭐ Currently learning more about Machine Learning, Data Analytics, and Computer Vision systems.
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Thanweerfahim)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ “Learning Never Stops” ⭐
+
+<img src="https://github-readme-stats.vercel.app/api?username=Thanweerfahim&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thanweerfahim&theme=tokyonight" />
+
+</div>
