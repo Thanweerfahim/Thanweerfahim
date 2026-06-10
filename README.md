@@ -1,111 +1,134 @@
-<!-- Fully Animated Portfolio README for Muhammed Thanweer Fahim -->
+# Hi, I'm Muhammed Thanweer Fahim 👋
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">  
-  Hey there, I'm <span style="color:#00FFAA">Muhammed Thanweer Fahim</span>
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=0044FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Enthusiast;Graphics+Designer;Always+Learning!">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="100%">
-</p>
+🎓 Applied Sciences Undergraduate at Rajarata University of Sri Lanka
+📊 Interested in Machine Learning, Data Analytics, Computer Vision & AI
+💻 Passionate about building intelligent systems using data-driven approaches
 
 ---
 
-## 🌟 About Me  
+## 🚀 About Me
 
-🎓 **Undergraduate** – BSc in Physical Science, Faculty of Applied Sciences, **Rajarata University of Sri Lanka**  
-🎓 **Diploma in IT** – University of Colombo (External) 
-🎓 **Completed 1st Year** – SLIIT  
+I am currently pursuing a BSc in Applied Sciences (Physical Science) with a specialization in Mathematics, Statistics, and Computer Science at Rajarata University of Sri Lanka.
 
-🏫 **Primary & Secondary Education** – *All Saints’ College, Galle*  
-📚 **A/L (Mathematics Stream)**  
+My interests mainly focus on:
 
-💻 **Full Stack Developer** | 🔐 **Cybersecurity Enthusiast** | 🤖 **AI/ML Enthusiast** | 🎨 **Graphics Designer**  
+* Machine Learning
+* Data Science
+* Computer Vision
+* Statistical Modeling
+* Intelligent Systems
+* Data Analytics
 
-🌍 Languages I Speak:  English |  Sinhala |  Tamil  
-
----
-
-## 🛠️ Tech Stack & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,bootstrap,tailwind,flask,git,github,linux,photoshop,vscode" /><br>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Language-C++-00599C?logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Frontend-Bootstrap-purple?logo=bootstrap">
-  <img src="https://img.shields.io/badge/Framework-Flask-black?logo=flask">
-  <img src="https://img.shields.io/badge/UI-TailwindCSS-teal?logo=tailwindcss">
-  <img src="https://img.shields.io/badge/Design-Adobe_PS-orange?logo=adobephotoshop">
-</p>
+I enjoy working on research-oriented projects and applying analytical thinking to solve real-world problems.
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Technical Skills
 
-📌 [Room Booking App](https://github.com/your-repo) – Flask web app for booking rooms  
-📌 [Cybersecurity Scripts](https://github.com/your-repo) – Small tools for security testing  
-📌 [Graphics Design Portfolio](https://github.com/your-repo) – My creative work  
+### Programming Languages
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
-</p>
+* R
+* Java
+* C++
+* PHP
+* JavaScript
+* HTML/CSS
 
+### Data Science & Machine Learning
 
----
+* Statistical Learning
+* Predictive Analytics
+* Data Analysis
+* Exploratory Data Analysis (EDA)
+* Classification & Regression
+* Feature Engineering
+* Model Evaluation
 
-## 📊 GitHub Analytics  
+### Mathematics & Statistics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thanweerfahim&theme=dracula&row=1&column=6" alt="trophies"/>
-</p>
+* Probability & Statistics
+* Statistical Inference
+* Linear Algebra
+* Numerical Analysis
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanweerfahim&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanweerfahim&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+### Tools & Technologies
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanweerfahim&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thanweerfahim/thanweerfahim/output/snake-rainbow.svg" alt="Contribution Snake"/>
-</p>
-
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="mailto:muhammedthanweerfahim@gmail.com.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/Thanweerfahim">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
+* Git & GitHub
+* Jupyter Notebook
+* Excel
+* Canva
+* Adobe Photoshop
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-</p>
+# 📌 Featured Projects
 
-<p align="center">✨ *"Code, Create, Secure & Inspire"* ✨</p>
+## 🌿 Tree Species Identification Using Leaf Image Classification
 
+Machine learning-based image classification system developed to identify tree species using leaf images.
 
+### Key Features
 
+* Image preprocessing
+* Feature extraction
+* Classification workflows
+* Pattern recognition techniques
+
+🔗 Project Link:
+[Tree Species Identification Project](https://github.com/Thanweerfahim/Tree-Species-Identification-Using-Leaf-Image-Classification?utm_source=chatgpt.com)
+
+---
+
+## 🚗 Multi-Camera Vehicle Re-Identification and Tracking System for Fraud Incident Analysis (Ongoing Research)
+
+Research-focused computer vision project for vehicle tracking and fraud investigation across multiple CCTV cameras.
+
+### Research Areas
+
+* Vehicle detection & tracking
+* Vehicle re-identification
+* Automatic number plate recognition
+* Cross-camera tracking
+* Path prediction
+* Intelligent investigation workflows
+
+---
+
+## 📚 Education
+
+### 🎓 Rajarata University of Sri Lanka
+
+BSc Applied Sciences (Physical Science)
+Focus Areas:
+
+* Mathematics
+* Statistics
+* Computer Science
+
+### 💻 University of Colombo School of Computing (External)
+
+Diploma in Information Technology (DIT)
+
+---
+
+## 🏆 Leadership & Activities
+
+* Graphic Designer — Rotaract Club of Rajarata University of Sri Lanka
+* Editor — Galle Muslim Undergraduate Network
+* Volunteer Graphic Designer — InFocus Media
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [muhammedthanweerfahim@gmail.com](mailto:muhammedthanweerfahim@gmail.com)
+
+🔗 LinkedIn:
+[Muhammed Thanweer Fahim LinkedIn](https://www.linkedin.com/in/muhammed-thanweer-fahim-6915b6386?utm_source=chatgpt.com)
+
+💻 GitHub:
+[Thanweerfahim GitHub](https://github.com/Thanweerfahim?utm_source=chatgpt.com)
+
+---
+
+⭐ Currently learning more about Machine Learning, Data Analytics, and Computer Vision systems.
